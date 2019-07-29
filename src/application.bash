@@ -1,4 +1,6 @@
-### Application.bash - 201x - Rousselot ###
-echo "version 1.1"
-echo "Copyright Company - 210x"
-echo "Build : 10:00"
+### Application.bash - 2019 - Rousselot ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"

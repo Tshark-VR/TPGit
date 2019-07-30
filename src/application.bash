@@ -1,4 +1,4 @@
-### Application.bash - 2019 - Rousselot ###
+### Application.bash - 2019 - Thomas ###
 version = "2"
 build_hour = "11H00"
 
